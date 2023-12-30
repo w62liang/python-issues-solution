@@ -1,6 +1,6 @@
 # Create A New Kernel/Environment in Jupyterhub/Jupyter Notebook (Uwaterloo)
 
-The University of Waterloo provides the access to Jupyterhub where the students could login using their WatIAM and program based on online environments. 
+The University of Waterloo provides an access to Jupyterhub where the students could log in using their WatIAM and programs based on online environments. 
 
 **Issue**: some libraries cannot be sucessfully installed as the student has no permissions to write the path where the package will be installed.
 
